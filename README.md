@@ -8,9 +8,9 @@
 
 - Day 1: IoT Trend, Devices, Protocols (MQTT), Development Services (Node-RED), Arduino IDE, GitHub Destop, Node.js, IBM Node-RED, Flow, Dashboard and their Lab Experiments using ESP8266 Wemos D1.
 
-- Day 2: IoT Protocols, Development Services, Webservices, their Protocols, AT&T M2X IoT Platform with Flow and their Lab Experiments using ESP8266 Wemos D1.
+- Day 2: Webservices, their Protocols, APIs, IoT App Interconnection Services, IFTTT and its Lab Experiments using ESP8266 Wemos D1.
 
-- Day 3: APIs, IoT App Interconnecion Services, IFTTT and its Lab Experiments using ESP8266 Wemos D1.
+- Day 3: IoT Protocols, Development Services, AT&T M2X IoT Platform with Flow and their Lab Experiments using ESP8266 Wemos D1.
 
 - Day 4: IoT Programming Languages, IoT OSes, ThingWorx Framework and its Lab Experiments using ESP8266 Wemos D1.
 
